@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Pimage_handle
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 w1497783846
+Z3 dC:/Users/BertoTech/Documents/myProject/myProject/modelsim
+Z4 8C:/Users/BertoTech/Documents/myProject/myProject/modelsim/image_handle.vhd
+Z5 FC:/Users/BertoTech/Documents/myProject/myProject/modelsim/image_handle.vhd
+l0
+L12
+V=HA<Mf>zXCMkZaBnB_OnQ0
+!s100 iYj<6U<e0>Z95DBO1`<nW1
+Z6 OP;C;10.4a;61
+32
+b1
+Z7 !s110 1497783857
+!i10b 1
+Z8 !s108 1497783857.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/BertoTech/Documents/myProject/myProject/modelsim/image_handle.vhd|
+Z10 !s107 C:/Users/BertoTech/Documents/myProject/myProject/modelsim/image_handle.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Bbody
+Z13 DPx4 work 12 image_handle 0 22 =HA<Mf>zXCMkZaBnB_OnQ0
+R0
+R1
+l0
+L22
+VAg]R6D<a^RdBkX:C:RedV3
+!s100 ]ok5_DI8NZ?fIle>I=IoL0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+nbody
+Eimage_test
+Z14 w1497783827
+R13
+Z15 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R0
+R1
+R3
+Z16 8C:/Users/BertoTech/Documents/myProject/myProject/modelsim/open_image.vhd
+Z17 FC:/Users/BertoTech/Documents/myProject/myProject/modelsim/open_image.vhd
+l0
+L6
+VYiNfPzBXRf=8SNHVck_Ro2
+!s100 ocCP5<XhRSm5i[Fel?gfW3
+R6
+32
+R7
+!i10b 1
+R8
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/BertoTech/Documents/myProject/myProject/modelsim/open_image.vhd|
+Z19 !s107 C:/Users/BertoTech/Documents/myProject/myProject/modelsim/open_image.vhd|
+!i113 1
+R11
+R12
+Abeh
+R13
+R15
+R0
+R1
+Z20 DEx4 work 10 image_test 0 22 YiNfPzBXRf=8SNHVck_Ro2
+l12
+L9
+VafNXAU?=7:4cdTOg`]ob]2
+!s100 ZL;Dc9HCBe[@enil5J2kR2
+R6
+32
+R7
+!i10b 1
+R8
+R18
+R19
+!i113 1
+R11
+R12
